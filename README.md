@@ -1,20 +1,27 @@
 # CodeAlpha_Login-and-Registration-System
 A simple console-based Login and Registration System built using C++. This project allows users to register and log in with a username and password. All user credentials are stored in a local file using basic file handling techniques.
 
-📌 Features
-Register new users
-Login with existing credentials
-Store user data in a .txt file
-Console-based menu system
-Input validation and error messages
-💻 Technologies Used
-C++
-File I/O using fstream
-Standard Template Library (STL)
-🚀 Getting Started
+## 📌 Features
+
+- Register new users
+- Login with existing credentials
+- Store user data in a `.txt` file
+- Console-based menu system
+- Input validation and error messages
+
+## 💻 Technologies Used
+
+- C++
+- File I/O using `fstream`
+- Standard Template Library (STL)
+
+## 🚀 Getting Started
+
 Follow the steps below to run the project on your local machine:
 
-1. Clone the repository
+### 1. Clone the repository
+
+```bash
 git clone https://github.com/your-username/login-system-cpp.git
 cd login-system-cpp
 2. Compile the code
@@ -44,3 +51,4 @@ Mini-project for C++ learners
 Demonstrating file handling
 
 Practicing user authentication logic
+
